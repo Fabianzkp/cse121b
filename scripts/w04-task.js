@@ -1,34 +1,7 @@
-/* LESSON 3 - Programming Tasks */
-
-/* Profile Object  */
-
-
-
-
-/* Populate Profile Object with placesLive objects */
-
-
-
-
-/* DOM Manipulation - Output */
-
-/* Name */
-
-/* Photo with attributes */
-
-
-/* Favorite Foods List*/
-
-
-/* Hobbies List */
-
-
-/* Places Lived DataList */
-
 
 let myProfile = {
     name: "Anana Agwu Ezikpe",
-    photo: "images/fabianimage.jpg", // Replace "your_image_name.jpg" with the actual path and name of your image
+    photo: "images/fabianimage.jpg",
     favoriteFoods: [
       'Rice',
       'Tikka Masala',
